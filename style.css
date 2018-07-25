@@ -9,18 +9,20 @@ body{
 }
 
 .stem{
+    margin: auto;
     background-color: lightgray;
     width:50px;
     height:75px;
 }
 .box{
     margin: auto;
-    width:100px;
-    height:250px;
+    width:200px;
+    height:300px;
     background-color: lightgray;
 }
 
 .red{
+    margin:auto;
     background-color: darkred;
     width:75px;
     height:75px;
@@ -31,6 +33,7 @@ body{
     box-shadow: 5px 5px 5px red;
 }
 .yellow{
+    margin:auto;
     background-color: gold;
     width:75px;
     height:75px;
@@ -41,6 +44,7 @@ body{
     box-shadow: 5px 5px 5px yellow;
 }
 .green{
+    margin:auto;
     background-color: darkgreen;
     width:75px;
     height:75px;
