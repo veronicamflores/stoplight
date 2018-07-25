@@ -18,6 +18,7 @@ body{
     display: inline-block;
     background-color: lightgray;
     margin-left: 11.5vw;
+    padding: 5vh 5vw;
 }
 
 .red{
