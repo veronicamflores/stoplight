@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.main{
+    margin: auto;
+    width: 500px;
+    height: 1000px;
+}
+
+.red{
+    border-radius: 50%;
+}
+.yellow{
+    border-radius: 50%;
+}
+.green{
+    border-radius: 50%;
+}
