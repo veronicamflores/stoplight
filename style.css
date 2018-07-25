@@ -5,19 +5,19 @@ body{
     margin: auto;
     width: 500px;
     height: 1000px;
-    background-color: darkslategray;
+    background-color: darkgray;
 }
 
 .box{
-    width:50px;
-    height:150px;
+    width:100px;
+    height:250px;
     background-color: lightgray;
 }
 
 .red{
     background-color: darkred;
-    width:25px;
-    height:25px;
+    width:50px;
+    height:50px;
     border-radius: 50%;
 }
 .red:hover{
@@ -26,8 +26,8 @@ body{
 }
 .yellow{
     background-color: gold;
-    width:25px;
-    height:25px;
+    width:50px;
+    height:50px;
     border-radius: 50%;
 }
 .yellow:hover{
@@ -36,8 +36,8 @@ body{
 }
 .green{
     background-color: darkgreen;
-    width:25px;
-    height:25px;
+    width:50px;
+    height:50px;
     border-radius: 50%;
 }
 
